@@ -1,3 +1,5 @@
+// a program to write 1D arrays
+
 #include<stdio.h>
 int main (){
 {
